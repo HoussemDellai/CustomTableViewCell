@@ -1,0 +1,9 @@
+/Users/houssem/Projects/CustomTableApp3/CustomTableApp3/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/houssem/Projects/CustomTableApp3/CustomTableApp3/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/houssem/Projects/CustomTableApp3/CustomTableApp3/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/houssem/Projects/CustomTableApp3/CustomTableApp3/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/houssem/Projects/CustomTableApp3/CustomTableApp3/obj/iPhoneSimulator/Debug/optimized/
+/Users/houssem/Projects/CustomTableApp3/CustomTableApp3/bin/iPhoneSimulator/Debug/CustomTableApp3.exe.mdb
+/Users/houssem/Projects/CustomTableApp3/CustomTableApp3/bin/iPhoneSimulator/Debug/CustomTableApp3.exe
+/Users/houssem/Projects/CustomTableApp3/CustomTableApp3/obj/iPhoneSimulator/Debug/CustomTableApp3.exe
+/Users/houssem/Projects/CustomTableApp3/CustomTableApp3/obj/iPhoneSimulator/Debug/CustomTableApp3.exe.mdb

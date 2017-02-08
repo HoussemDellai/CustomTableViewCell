@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{E9AA376C-AA6C-467B-9540-22F10277FF9D}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="CustomTableApp3/EmployeeCell.cs" Line="21" Column="4" />
+      <File FileName="CustomTableApp3/ViewController.cs" Line="57" Column="6" />
+      <File FileName="CustomTableApp3/Employee.cs" Line="20" Column="4" />
+      <File FileName="CustomTableApp3/EmployeesTVS.cs" Line="19" Column="33" />
+      <File FileName="CustomTableApp3/EmployeeTableCell.cs" Line="12" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CustomTableApp3" expanded="True">
+            <Node name="CustomTableApp3" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CustomTableApp3 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.DBD4DA4E-1823-4162-A794-F38B59838FE8" />
+</Properties>
